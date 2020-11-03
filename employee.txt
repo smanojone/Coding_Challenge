@@ -1,0 +1,8 @@
+Id,Name,Role
+1,Adam Admin,1
+2,Emily Employee,4
+3,Sam Supervisor,3
+4,Mary Manager,2
+5,Trent Trainer,5
+6,Simon Jones,4
+7,Michael Jackson,2
